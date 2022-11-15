@@ -5,14 +5,10 @@
     "keywords": [
         "_____"
     ],
-    "homepage": "https://www.yiiframework.com/",
+    "homepage": "https://github.com/yiiboot",
     "license": "Apache-2.0",
     "support": {
         "issues": "https://github.com/yiiboot/_____/issues?state=open",
-        "forum": "https://www.yiiframework.com/forum/",
-        "wiki": "https://www.yiiframework.com/wiki/",
-        "irc": "irc://irc.freenode.net/yii",
-        "chat": "https://t.me/yii3en",
         "source": "https://github.com/yiiboot/_____"
     },
     "funding": [
