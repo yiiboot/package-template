@@ -74,7 +74,7 @@ Use [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) 
 
 ## License
 
-The Yii _____ is free software. It is released under the terms of the Apache2.0 License.
+The Yii _____ is free software. It is released under the terms of the Apache-2.0 License.
 Please see [`LICENSE`](./LICENSE.md) for more information.
 
 Maintained by [Yii Boot](https://github.com/yiiboot).
