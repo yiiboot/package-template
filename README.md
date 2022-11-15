@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/yiiboot" target="_blank">
-        <img src="https://yiiboot.github.io/docs/images/yii_logo.svg" height="100px">
+        <img src="https://avatars.githubusercontent.com/u/118281946?s=600&u=fdd5ca02c1979e02488378a4ee2e87fc0228b52b&v=4" height="100px">
     </a>
     <h1 align="center">YiiBoot _____</h1>
     <br>
