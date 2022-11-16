@@ -2,7 +2,7 @@
     <a href="https://github.com/yiiboot" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/118281946?s=600&u=b16475d97095b69a8f500ec2f29b8d05c3d02b3a&v=4" height="100px">
     </a>
-    <h1 align="center">YiiBoot _____</h1>
+    <h1 align="center">Yii Boot _____</h1>
     <br>
 </p>
 
